@@ -82,7 +82,7 @@ img {
     color: white;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     
     h1 {
         height: 3rem;
